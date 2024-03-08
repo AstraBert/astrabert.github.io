@@ -1,5 +1,4 @@
-const nextConfig = {
-  output: 'export',
+module.exports = {
   images: {
     unoptimized: true,
     domains: [
@@ -10,5 +9,3 @@ const nextConfig = {
   }
 }
 
-
-module.exports = nextConfig
