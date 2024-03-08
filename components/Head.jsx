@@ -18,7 +18,7 @@ const CustomHead = ({ title }) => {
         content="Astra Clelia Bertelli's Profolio."
       />
       <meta property="og:image" content="https://imgur.com/YTNNknY.png" />
-      <meta property="og:url" content="https://astrabert.dev" />
+      <meta property="og:url" content="https://astrabert.vercel.app/" />
       <meta name="twitter:card" content="summary_large_image" />
     </Head>
   );

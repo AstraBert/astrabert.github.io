@@ -23,8 +23,8 @@ const contactItems = [
   },
   {
     social: 'Website',
-    link: 'astrabert.dev',
-    href: 'https://astrabert.dev',
+    link: 'astrabert.vercel.app',
+    href: 'https://astrabert.vercel.app',
   },
 ];
 
