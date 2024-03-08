@@ -1,19 +1,27 @@
 [
   {
     "id": 1,
-    "name": "Youtube Comment Bot",
-    "image": "https://imgur.com/bFXeKlG.png",
-    "description": "A bot that post the first comment on every new video of specified channels.",
-    "tags": ["Youtube", "Gmail", "Dropbox", "MySQL", "AWS", "RDS", "CircleCI", "Heroku"],
-    "source_code": "https://github.com/drkostas/Youtube-FirstCommentBot",
-    "demo": "https://www.youtube.com/channel/UC_nnPV1zXEqIP42HOiVdg1A"
+    "name": "BiomedicalPapersBot",
+    "image": "/pubmed.jpg",
+    "description": "A Telegram bot to retrieve PubMed papers' title, doi, authors and publication date based on general search terms or on specific publication names",
+    "tags": ["Telegram bot", "Automation", "Papers", "Academic resources", "Academic papers"],
+    "source_code": "https://github.com/AstraBert/BioMedicalPapersBot",
+    "demo": "https://t.me/BioMedicalPapersBot"
   },
   {
     "id": 2,
-    "name": "Job Application Bot",
-    "image": "https://imgur.com/BX6C6ke.png",
-    "description": "A bot that automatically sends emails to new ads posted in any desired xe.gr search url.",
-    "tags": ["Gmail", "Dropbox", "MySQL", "AWS", "RDS", "CircleCI", "Heroku", "Crawler", "Scraper"],
-    "source_code": "https://github.com/drkostas/JobApplicationBot"
+    "name": "Co(de)Pilot Bot",
+    "image": "/bot.png",
+    "description": "Discord bot that helps coders by refactoring their code and giving advice to them. Based on Jan.ai API",
+    "tags": ["Discord", "Code automation", "Jan", "AI", "Deepseek-coder", "Python"],
+    "source_code": "https://github.com/AstraBert/jan-scraper/tree/main/discord_bot/Co(de)Pilot_bot"
+  },
+  {
+    "id": 3,
+    "name": "RespectFeelNess Bot",
+    "image": "/inclusion.png",
+    "description": "Discord bot that helps users by providing emotional support to them. Based on Jan.ai API",
+    "tags": ["Discord", "Emotional agent", "Jan", "AI", "LLAMA", "Python"],
+    "source_code": "https://github.com/AstraBert/jan-scraper/tree/main/discord_bot/RespectFeelNess_bot"
   }
 ]

@@ -1,43 +1,34 @@
 [
   {
     "id": 1,
-    "name": "TuneCraft",
-    "image": "https://imgur.com/9vekJOP.png",
-    "description": "Effortlessly create personalized Spotify playlists with fresh, undiscovered tracks tailored to your taste, by checking all your liked songs and existing playlists to provide you with truly new music.",
-    "tags": ["Spotify", "automation"],
-    "source_code": "https://github.com/drkostas/TuneCraft"
+    "name": "simON-reads",
+    "image": "/dnaseq.jpg",
+    "description": "simON-reads (Simulate Oxford Nanopore Reads) is a simple yet powerful tool to generate fastq files containing MiniON-like long reads",
+    "tags": ["Oxford Nanopore", "Genomics", "Automation testing"],
+    "source_code": "https://github.com/AstraBert/simON-reads"
   },
   {
     "id": 2,
-    "name": "Spotify Button Presser",
-    "image": "https://imgur.com/Ek1p3sE.png",
-    "description": "An app that clicks a physical button whenever Spotify starts playing on the target device.",
-    "tags": ["RaspberryPI", "Spotify", "SwitchBot", "button-presser", "automation", "smart-home"],
-    "source_code": "https://github.com/drkostas/SpotiClick"
+    "name": "Word-Doc-2-HTML",
+    "image": "/html.jpeg",
+    "description": "Python Desktop application to convert Word Documents to HTML - based on mammoth-python",
+    "tags": ["Python app", "Front end", "Automation"],
+    "source_code": "https://github.com/AstraBert/Word-Doc-2-HTML"
   },
   {
     "id": 3,
-    "name": "Cross The Floor",
-    "image": "https://imgur.com/jjPQmxf.png",
-    "description": "Uses Sankey Diagrams to visualize politicians that have `crossed the floor` from election to election.",
-    "tags": ["Sankey-Diagram", "Parliament", "Scraper", "Visualization"],
-    "source_code": "https://github.com/drkostas/Cross-The-Floor"
+    "name": "altrevis",
+    "image": "/phylotree.png",
+    "description": "An easy-to-use, beginner-oriented tool to align DNA/RNA or protein sequences, infer an approximately Maximum Likelihood phylogenetic tree from the alignment and visualize it",
+    "tags": ["Phylogenetics", "Beginner-oriented", "Bash"],
+    "source_code": "https://github.com/AstraBert/altrevis"
   },
   {
     "id": 4,
-    "name": "2D Shooter Game",
-    "image": "https://imgur.com/GP9wwc0.png",
-    "description": "Simple 2d shooter game written with JavaScript and the p5.js library.",
-    "tags": ["P5.js", "game", "shooter-game"],
-    "source_code": "https://github.com/drkostas/shooter-game-with-p5js",
-    "demo": "http://shooter-game.gkos.dev"
-  },
-  {
-    "id": 4,
-    "name": "Quantum Mechanics Quiz App",
-    "image": "https://imgur.com/GZAcsg4.png",
-    "description": "Android app with 10 questions about Quantum Mechanics.",
-    "tags": ["Android-App", "App", "Java", "Quantum-Mechanics", "Quiz"],
-    "source_code": "https://github.com/drkostas/Quantum-Mechanics-Quiz-App"
-}
+    "name": "PredGenesGetPepts",
+    "image": "/genes.jpg",
+    "description": "PredGenesGetPepts is an easy-to-use, beginner-friendly pipeline to call genes from fasta files, retrieve peptides and blasting them against a given protein database",
+    "tags": ["Gene calling", "Beginner-oriented", "Bash"],
+    "source_code": "https://github.com/AstraBert/PredGenesGetPepts"
+  }
 ]

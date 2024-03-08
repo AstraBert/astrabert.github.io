@@ -7,9 +7,9 @@ const AboutPage = () => {
     <>
       <h3>About Me</h3><br/>
       <ul>
-        <li><span role="img" aria-label="book">📖</span> Pursuing PhD in Data Science & Engineering @ <a href='https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/'>The University of Tennessee</a>.</li>
-        <li><span role="img" aria-label="graduate-hat">🎓</span> Conducting research on <b>AI</b> and <b>Computer Vision</b> @ <a href='https://aicip.github.io/research.htm'>AICIP Lab</a>.</li>
-        <li><span role="img" aria-label="laptop">💻</span> Currently building Masked Image Modeling models for Remote Sensing data. </li>
+        <li><span role="img" aria-label="book">📖</span> 21-years-old BS student in Biological Sciences at <a href='https://dbb.dip.unipv.it/en'>University of Pavia (Italy)</a>.</li>
+        <li><span role="img" aria-label="plant">🌱</span> I'm conducting research on bioinformatics applied to genomics, especially in the fields of biodiversity conservation and phylogenetics - collaborating with <a href='https://www.nhm-wien.ac.at/en'>NHM Vienna</a> and <a href='https://dbb.dip.unipv.it/en'>University of Pavia (Italy)</a>.</li>
+        <li><span role="img" aria-label="laptop">💻</span> Currently learning how to apply Python, bash, R and other languages to the development of user-friendly and innovative tools to carry out genomic analyses.</li>
       </ul>
       <br/>
       <center>

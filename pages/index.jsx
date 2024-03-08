@@ -8,13 +8,13 @@ export default function HomePage() {
     <>
       <div className={styles.container}>
         <div className={styles.background}>
-          <h1>AI</h1>
-          <h1>Research</h1>
+          <h2>Bioinformatics</h2>
+          <h2>Research</h2>
         </div>
         <div className={styles.foreground}>
           <div className={styles.content}>
-            <h1 className={styles.name}>Kostas Georgiou</h1>
-            <h6 className={styles.bio}>Computer Vision Researcher</h6>
+            <h1 className={styles.name}>Astra Clelia Bertelli</h1>
+            <h6 className={styles.bio}>Bioinformatics researcher</h6>
             <div className={styles.cardContainer}>
               <div className={styles.card}>
                 <div className={styles.content}>
@@ -23,32 +23,23 @@ export default function HomePage() {
                     <span key='Research' className='Research'>
                       Research
                     </span>
-                    <span key='PyTorch' className='PyTorch'>
-                      PyTorch
+                    <span key='Python' className='Python'>
+                      Python
                     </span>
-                    <span key='Tensorflow' className='Tensorflow'>
-                      Tensorflow
+                    <span key='Biology' className='Biology'>
+                      Biology
                     </span>
-                    <span key='Apache-Spark' className='Apache-Spark'>
-                      Apache-Spark
+                    <span key='Bioinformatics' className='Bioinformatics'>
+                      Bioinformatics
                     </span>
-                    <span key='SQL' className='SQL'>
-                      SQL
+                    <span key='Biodiversity' className='Biodiversity'>
+                      Biodiversity protection
                     </span>
-                    <span key='Computer-Vision' className='Computer-Vision'>
-                      Computer-Vision
-                    </span>
-                    <span key='Data-Pipelines' className='Data-Pipelines'>
-                      Data-Pipelines
-                    </span>
-                    <span key='MLOps' className='MLOps'>
-                      MLOps
-                    </span>
-                    <span key='Software-Design' className='Software-Design'>
-                      Software-Design
+                    <span key='Software-Development' className='Software-Development'>
+                      Software-Development
                     </span>
                     <span key='Bots' className='Bots'>
-                      Bots
+                      Telegram and Discord Bots
                     </span>
                     <span key='APIs' className='APIs'>
                       APIs
@@ -72,10 +63,10 @@ export default function HomePage() {
             <div className={styles.picture_boader}>
               <Image
                 className={styles.picture}
-                src="/me.jpeg"
+                src="/me.png"
                 width={300}
                 height={290}
-                alt="Kostas' Picture"
+                alt="Coding cat"
               />
             </div>
 
