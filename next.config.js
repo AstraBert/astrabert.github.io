@@ -1,4 +1,5 @@
-module.exports = {
+const nextConfig = {
+  output: 'export',
   images: {
     unoptimized: true,
     domains: [
@@ -7,4 +8,7 @@ module.exports = {
       'imgur.com',
     ],
   }
-};
+}
+
+
+module.exports = nextConfig
