@@ -12,7 +12,7 @@
     "name": "distilgpt2-finetuned-microbiology",
     "image": "/micro.jpg",
     "description": "Small model for language modeling based on distilgpt2 and on microbiology-related text data",
-    "tags": ["DecisionTreeClassifier", "scikit-learn", "Gene calling"],
+    "tags": ["DistilGPT2", "Finetuned model", "Huggingface"],
     "source_code": "https://github.com/AstraBert/distilgpt2-finetuned-microbiology"
   }
 ]

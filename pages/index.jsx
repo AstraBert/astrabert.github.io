@@ -13,7 +13,7 @@ export default function HomePage() {
         </div>
         <div className={styles.foreground}>
           <div className={styles.content}>
-            <h1 className={styles.name}>Astra Clelia Bertelli</h1>
+            <h1 className={styles.name}>Astra Bertelli</h1>
             <h6 className={styles.bio}>Bioinformatics researcher</h6>
             <div className={styles.cardContainer}>
               <div className={styles.card}>
