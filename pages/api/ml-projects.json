@@ -14,5 +14,13 @@
     "description": "Small model for language modeling based on distilgpt2 and on microbiology-related text data",
     "tags": ["DistilGPT2", "Finetuned model", "Huggingface"],
     "source_code": "https://github.com/AstraBert/distilgpt2-finetuned-microbiology"
+  },
+  {
+    "id": 2,
+    "name": "VirBiCla",
+    "image": "/viruses.jpg",
+    "description": "A novel ML-based binary classifier to tell viral and non-viral long reads apart in metagenomic samples.",
+    "tags": ["Virome", "Genomics", "VotingClassifier"],
+    "source_code": "https://github.com/AstraBert/VirBiCla"
   }
 ]
