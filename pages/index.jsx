@@ -51,9 +51,9 @@ export default function HomePage() {
             <Link href="/about">
               <button className={styles.button}>About Me</button>
             </Link>
-            {/* <Link href="/projects">
-              <button className={styles.button}>View Projects</button>
-            </Link> */}
+            <Link href="https://github.com/sponsors/AstraBert">
+              <button className={styles.button}>Sponsor me on GitHub</button>
+            </Link>
             <Link href="/contact">
               <button className={styles.outlined}>Contact</button>
             </Link>

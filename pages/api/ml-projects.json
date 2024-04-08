@@ -16,11 +16,27 @@
     "source_code": "https://github.com/AstraBert/distilgpt2-finetuned-microbiology"
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "VirBiCla",
     "image": "/viruses.jpg",
     "description": "A novel ML-based binary classifier to tell viral and non-viral long reads apart in metagenomic samples.",
     "tags": ["Virome", "Genomics", "VotingClassifier"],
     "source_code": "https://github.com/AstraBert/VirBiCla"
+  },
+  {
+    "id": 4,
+    "name": "resistML",
+    "image": "/bacteria.jpg",
+    "description": "A tool for AMR gene family prediction, simple and ML-based",
+    "tags": ["Bacterial", "Antibiotic resistance", "Healthcare"],
+    "source_code": "https://github.com/AstraBert/resistML"
+  },
+  {
+    "id": 5,
+    "name": "everything-rag",
+    "image": "/cuterobot.png",
+    "description": "Introducing everything-rag, your fully customizable and local chatbot assistant!🤖",
+    "tags": ["RAG", "Generative AI", "LLM"],
+    "source_code": "https://github.com/AstraBert/everything-rag"
   }
 ]
