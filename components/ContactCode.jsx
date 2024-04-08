@@ -26,6 +26,11 @@ const contactItems = [
     link: 'astrabert.vercel.app',
     href: 'https://astrabert.vercel.app',
   },
+  {
+    social: 'My blog',
+    link: 'HOPHOP Science',
+    href: 'https://astrabert.github.io/hophop-science/',
+  },
 ];
 
 const ContactCode = () => {
