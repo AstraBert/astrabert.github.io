@@ -31,6 +31,21 @@ const contactItems = [
     link: 'HOPHOP Science',
     href: 'https://astrabert.github.io/hophop-science/',
   },
+  {
+    social: 'CoderLegion',
+    link: 'CoderLegion blog page',
+    href: 'https://coderlegion.com/user/Astra+Bertelli',
+  },
+  {
+    social: 'DEV Community',
+    link: 'DEV Community blog page',
+    href: 'https://dev.to/astrabert',
+  },
+  {
+    social: 'X',
+    link: 'X profile',
+    href: 'https://twitter.com/StarryNightDev',
+  },
 ];
 
 const ContactCode = () => {

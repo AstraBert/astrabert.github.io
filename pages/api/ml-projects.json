@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "name": "SacCerML",
+    "name": "saccharomyces-pythia",
     "image": "/saccer.jpg",
-    "description": "A DecisionTree Classifier program aimed at genecalling from Saccharomyces cerevisiae (and other organisms)",
-    "tags": ["DecisionTreeClassifier", "scikit-learn", "Gene calling"],
-    "source_code": "https://github.com/AstraBert/SacCerML"
+    "description": "A Voting Classifier program aimed at being a fully proficient AI/ML assistant for Saccharomyces cerevisiae (and other organisms)",
+    "tags": ["VotingClassifier", "scikit-learn", "Gene calling"],
+    "source_code": "https://github.com/AstraBert/saccharomyces-pythia"
   },
   {
     "id": 2,
@@ -38,5 +38,13 @@
     "description": "Introducing everything-rag, your fully customizable and local chatbot assistant!🤖",
     "tags": ["RAG", "Generative AI", "LLM"],
     "source_code": "https://github.com/AstraBert/everything-rag"
+  },
+  {
+    "id": 6,
+    "name": "awesome-tiny-sd",
+    "image": "/stable_diff.jpg",
+    "description": "Tiny stable diffusion chatbot based on segmind/small-sd to generate images upon text prompts",
+    "tags": ["computer-vision", "Generative AI", "stable-diffusion"],
+    "source_code": "https://github.com/AstraBert/awesome-tiny-sd"
   }
 ]
