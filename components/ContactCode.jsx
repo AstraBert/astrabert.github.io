@@ -9,7 +9,7 @@ const contactItems = [
   {
     social: 'LinkedIn',
     link: 'Linkedin.com/in/astra-bertelli',
-    href: 'https://www.linkedin.com/in/astra-bertelli-583904297',
+    href: 'https://www.linkedin.com/in/astra-clelia-bertelli-583904297',
   },
   {
     social: 'GitHub',

@@ -1,6 +1,46 @@
 [
   {
     "id": 1,
+    "name": "everything-ai",
+    "image": "/cuterobot.png",
+    "description": "Introducing everything-ai, your fully proficient, multi-tasking, local AI assistant!🤖",
+    "tags": ["AI", "Multi-Tasking", "Huggingface"],
+    "source_code": "https://github.com/AstraBert/everything-ai"
+  },
+  {
+    "id": 2,
+    "name": "qdurllm",
+    "image": "/search.png",
+    "description": "Search your favorite websites and chat with them, on your desktop🌐",
+    "tags": ["AI", "Local-Search-Engine", "Qdrant"],
+    "source_code": "https://github.com/AstraBert/qdurllm"
+  },
+  {
+    "id": 3,
+    "name": "proteinviz",
+    "image": "/proteins.png",
+    "description": "Your open-source alternative to AlphaFold3🚀",
+    "tags": ["AI", "Proteins", "AlphaFold"],
+    "source_code": "https://github.com/AstraBert/proteinviz"
+  },
+  {
+    "id": 4,
+    "name": "proteins-w-esm",
+    "image": "/gfp.jpg",
+    "description": "Predict the whole sequence and 3D structure of masked protein sequences with ESM by EvolutionaryScaleAI",
+    "tags": ["AI", "Proteins", "ESM"],
+    "source_code": "https://github.com/AstraBert/proteins-w-esm"
+  },
+  {
+    "id": 5,
+    "name": "BLAST-SummarAIzer",
+    "image": "/boom.jpg",
+    "description": "An easy-to-use, intuitive chat interface to ease and speed BLAST results interpretation, starting from 16S rRNA local blasting within the Docker container or from a Description Table (CSV) downloaded from online BLAST results.",
+    "tags": ["BLAST", "Bioinformatics", "AI"],
+    "source_code": "https://github.com/AstraBert/blast-summaraizer"
+  },
+  {
+    "id": 6,
     "name": "saccharomyces-pythia",
     "image": "/saccer.jpg",
     "description": "A Voting Classifier program aimed at being a fully proficient AI/ML assistant for Saccharomyces cerevisiae (and other organisms)",
@@ -8,7 +48,7 @@
     "source_code": "https://github.com/AstraBert/saccharomyces-pythia"
   },
   {
-    "id": 2,
+    "id": 7,
     "name": "distilgpt2-finetuned-microbiology",
     "image": "/micro.jpg",
     "description": "Small model for language modeling based on distilgpt2 and on microbiology-related text data",
@@ -16,7 +56,7 @@
     "source_code": "https://github.com/AstraBert/distilgpt2-finetuned-microbiology"
   },
   {
-    "id": 3,
+    "id": 8,
     "name": "VirBiCla",
     "image": "/viruses.jpg",
     "description": "A novel ML-based binary classifier to tell viral and non-viral long reads apart in metagenomic samples.",
@@ -24,7 +64,7 @@
     "source_code": "https://github.com/AstraBert/VirBiCla"
   },
   {
-    "id": 4,
+    "id": 9,
     "name": "resistML",
     "image": "/bacteria.jpg",
     "description": "A tool for AMR gene family prediction, simple and ML-based",
@@ -32,15 +72,7 @@
     "source_code": "https://github.com/AstraBert/resistML"
   },
   {
-    "id": 5,
-    "name": "everything-rag",
-    "image": "/cuterobot.png",
-    "description": "Introducing everything-rag, your fully customizable and local chatbot assistant!🤖",
-    "tags": ["RAG", "Generative AI", "LLM"],
-    "source_code": "https://github.com/AstraBert/everything-rag"
-  },
-  {
-    "id": 6,
+    "id": 10,
     "name": "awesome-tiny-sd",
     "image": "/stable_diff.jpg",
     "description": "Tiny stable diffusion chatbot based on segmind/small-sd to generate images upon text prompts",

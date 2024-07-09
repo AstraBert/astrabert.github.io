@@ -13,7 +13,7 @@ export default function HomePage() {
         </div>
         <div className={styles.foreground}>
           <div className={styles.content}>
-            <h1 className={styles.name}>Astra Bertelli</h1>
+            <h1 className={styles.name}>Astra Clelia Bertelli</h1>
             <h6 className={styles.bio}>Bioinformatics researcher</h6>
             <div className={styles.cardContainer}>
               <div className={styles.card}>
@@ -33,16 +33,16 @@ export default function HomePage() {
                       Bioinformatics
                     </span>
                     <span key='Biodiversity' className='Biodiversity'>
-                      Biodiversity protection
+                      AI
                     </span>
                     <span key='Software-Development' className='Software-Development'>
                       Software-Development
                     </span>
                     <span key='Bots' className='Bots'>
-                      Telegram and Discord Bots
+                      LLMs
                     </span>
                     <span key='APIs' className='APIs'>
-                      APIs
+                      Docker
                     </span>
                   </div>
                 </div>
