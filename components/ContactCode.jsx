@@ -42,9 +42,9 @@ const contactItems = [
     href: 'https://dev.to/astrabert',
   },
   {
-    social: 'X',
-    link: 'X profile',
-    href: 'https://twitter.com/StarryNightDev',
+    social: 'BlueSky',
+    link: 'BlueSky profile',
+    href: 'https://bsky.app/profile/cle-does-things.bsky.social',
   },
 ];
 
